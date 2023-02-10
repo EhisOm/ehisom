@@ -7,7 +7,7 @@
 
 
 #### Languages and Tools
-[] 
+### <img src="images/CSS3_logo.svg.png" alt="CSS 3 Image" width= "100">
 
 
 **EhisOm/ehisom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
