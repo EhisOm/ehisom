@@ -1,0 +1,30 @@
+### Hi there 👋
+
+
+
+###### I am a Junior Software Developer, I am currently enrolled in Hyperion Dev bootcamp, most of my coding projects were from my bootcamp, which a coded, why the webpages were built from ground up.
+
+
+
+#### Languages and Tools
+[] 
+<!--
+**EhisOm/ehisom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
+
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
