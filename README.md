@@ -4,7 +4,5 @@
 
 #### Languages and Tools
 <!-- ![](./images/CSS3_logo.svg.png) -->
-<img src="./images/javascript-logo.png" width=50>
-<img src="./images/HTML5_logo.svg.png" width=50>
-<img src="./images/CSS3_logo.svg.png" width=50>
+<img src="./images/javascript-logo.png" width=50> <img src="./images/HTML5_logo.svg.png" width=50> <img src="./images/CSS3_logo.svg.png" width=50>
 <!-- <img src="./images/CSS3_logo.svg.png" width=50> -->
