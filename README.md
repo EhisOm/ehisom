@@ -7,5 +7,5 @@
  width=50> <img src="./images/CSS3_logo.svg.png" alt="CSS3 Logo Image"
  width=35>
 
-##### LinkedIn <img src="./images/LinkedIn174857.png" alt="LinkedIn logo" width=50>
+##### LinkedIn <img src="./images/LinkedIn174857.png" alt="LinkedIn logo" width=20>
 [Click to view](www.linkedin.com/in/ehis-omijie-18a043191)
