@@ -4,4 +4,4 @@
 
 #### Languages and Tools
 <!-- ![](./images/CSS3_logo.svg.png) -->
-<img src="./images/CSS3_logo.svg.png" width=70>
+<img src="./images/CSS3_logo.svg.png" width=50>
