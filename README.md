@@ -8,8 +8,8 @@
 
 #### Languages and Tools
 <!-- ### <img src="images/CSS3_logo.svg.png" alt="CSS 3 Image" width= "100"> -->
-!(./images/CSS3_logo.svg.png)
-<img src="./images/CSS3_logo.svg.png" width="100">
+!(.ehisom/images/CSS3_logo.svg.png)
+<img src="./ehisom/images/CSS3_logo.svg.png" width="100">
 
 
 
