@@ -7,3 +7,5 @@
  width=50> <img src="./images/CSS3_logo.svg.png" alt="CSS3 Logo Image"
  width=35>
 
+##### LinkedIn
+![Click to view](./www.linkedin.com/in/ehis-omijie-18a043191
