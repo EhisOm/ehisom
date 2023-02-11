@@ -8,4 +8,7 @@
  width=35>
 
 ##### LinkedIn
-![Click to view](./www.linkedin.com/in/ehis-omijie-18a043191
+![Click to view](www.linkedin.com/in/ehis-omijie-18a043191)
+
+#### GitHub
+[View Page](https://github.com/EhisOm)
