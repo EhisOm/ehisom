@@ -6,8 +6,8 @@
 <img src="./images/python-logo-only.png" alt=" Python Logo" width=35>  <img src="./images/javascript-logo.png" alt="JavaScript Logo Image" width=35> <img src="./images/HTML5_logo.svg.png" alt="HTML5 Logo Image"
  width=50> <img src="./images/CSS3_logo.svg.png" alt="CSS3 Logo Image"
  width=35> <img src="./images/Sql_logo.png" alt="CSS3 Logo Image"
- width=60>  <img src="./images/SQLite3.png" alt="CSS3 Logo Image"
- width=60>
+ width=70>  <img src="./images/SQLite3.png" alt="CSS3 Logo Image"
+ width=70>
 
 ##### LinkedIn <img src="./images/LinkedIn174857.png" alt="LinkedIn logo" width=15>
 [Click to view](www.linkedin.com/in/ehis-omijie-18a043191)
