@@ -8,6 +8,3 @@
  width=35>    <img src="./images/Sql_logo.png" alt="SQL Logo Image"
  width=100>   <img src="./images/SQLite3.png" alt="SQLite3 Logo Image"
  width=100> 
-
-##### LinkedIn <img src="./images/LinkedIn174857.png" alt="LinkedIn logo" width=15>
-[Click to view](www.linkedin.com/in/ehis-omijie-18a043191)
